@@ -1,4 +1,4 @@
-# E10a-Blender
+# E10a-Blender Allie Brock
 This exercise will give you an opportunity to get some experience using Blender (in advance of the requirements for Project 09).
 
 As usual, Fork and Clone this repository.
